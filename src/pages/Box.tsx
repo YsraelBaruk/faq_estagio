@@ -8,6 +8,7 @@ import { Topico1 } from './topicos/topico1'
 import { Topico2 } from './topicos/topico2'
 import { Topico3 } from './topicos/topico3'
 import { Topico4 } from './topicos/topico4'
+import { Topico5 } from './topicos/topico5'
 
 const topicos = [
   {
@@ -27,8 +28,8 @@ const topicos = [
     detalhes: <Topico4 />,
   },
   {
-    titulo: 'Bom dia Com Elemento',
-    detalhes: '<Topico1 />',
+    titulo: 'Informações sobre Estágio para Empresas',
+    detalhes: <Topico5 />,
   },
   {
     titulo: 'Bom dia Sem Elemento',
