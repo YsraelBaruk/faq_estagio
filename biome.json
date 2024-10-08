@@ -24,6 +24,9 @@
       "style": {
         "noNonNullAssertion": "off",
         "useNodejsImportProtocol": "off"
+      },
+      "correctness": {
+        "useJsxKeyInIterable": "off"
       }
     }
   },
