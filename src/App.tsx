@@ -2,8 +2,8 @@ import { Box } from './pages/Box'
 
 export function App() {
   return (
-    <div className="flex justify-center items-center h-screen">
-      <div className="bg-blue-300 rounded-3xl w-4/5 flex flex-col justify-center items-center gap-12 ">
+    <div className="flex justify-center items-center h-full">
+      <div className="bg-zinc-800/[.2] pb-10 rounded-3xl w-4/5 flex flex-col justify-center items-center gap-12 ">
         <h1 className="text-3xl p-5">Dúvidas Frequentes</h1>
         <div className="flex flex-col justify-center items-center w-4/5 indent-5 gap-3">
           <p>
